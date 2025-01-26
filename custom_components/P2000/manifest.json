@@ -1,0 +1,12 @@
+{
+    "domain": "p2000",
+    "name": "P2000-online.net",
+    "config_flow": true,
+    "documentation": "https://github.com/bartjackbakker/home-assistant-p2000",
+    "dependencies": [],
+    "codeowners": [
+      "@bartjackbakker"
+    ],
+    "requirements": [],
+    "version": "1.0.0"
+  }
